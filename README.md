@@ -24,7 +24,4 @@ Hi 👋, I'm Abdallah Adaileh, a Full-Stack Web Developer and a graduate from Or
 
 [![](https://visitcount.itsvg.in/api?id=abdullahadaileh&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/abdullahadaileh?country.x=JO&locale.x=ar_EG)
-
 ---
