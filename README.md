@@ -1,4 +1,4 @@
-![Header Image](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+![Header Image](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 # 💫 About Me:
 Hi 👋, I'm Abdallah Adaileh, a Full-Stack Web Developer and a graduate from Orange Coding Academy. I'm strongly enthusiastic about modern technologies and computer systems. With a solid background and proficiency in JavaScript, PHP, Laravel, and ReactJS, I have developed the ability to easily adapt to new technologies and challenges. My skills have allowed me to work on various projects at Orange Coding Academy and to further refine my capability to work effectively both independently and as part of a team. I look forward to applying my experience and soft skills to future web development opportunities.
