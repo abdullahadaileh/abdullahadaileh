@@ -18,8 +18,4 @@ Hi 👋, I'm Abdallah Adaileh, a Full-Stack Web Developer and a graduate from Or
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdullahadaileh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=abdullahadaileh&icon=1&color=0)](https://visitcount.itsvg.in)
-
----
