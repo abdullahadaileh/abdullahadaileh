@@ -1,4 +1,4 @@
-![Header Image](https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745307)
+![Header Image](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
 
 # 💫 About Me:
 Hi 👋, I'm Abdallah Adaileh, a Full-Stack Web Developer and a graduate from Orange Coding Academy. I'm strongly enthusiastic about modern technologies and computer systems. With a solid background and proficiency in JavaScript, PHP, Laravel, and ReactJS, I have developed the ability to easily adapt to new technologies and challenges. My skills have allowed me to work on various projects at Orange Coding Academy and to further refine my capability to work effectively both independently and as part of a team. I look forward to applying my experience and soft skills to future web development opportunities.
