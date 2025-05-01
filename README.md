@@ -1,4 +1,7 @@
 ![Header Image](https://wallpapers-clan.com/wp-content/uploads/2024/08/dc-comics-batman-rain-gif-desktop-wallpaper-preview.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/79/7a/47/797a474a12d4f6219337a8c2a039e475.jpg" width="100%" >
+</p>
 
 # 💫 About Me:
 Hi 👋, I'm Abdallah Adaileh, a Full-Stack Web Developer and a graduate from Orange Coding Academy. I'm strongly enthusiastic about modern technologies and computer systems. With a solid background and proficiency in JavaScript, PHP, Laravel, and ReactJS, I have developed the ability to easily adapt to new technologies and challenges. My skills have allowed me to work on various projects at Orange Coding Academy and to further refine my capability to work effectively both independently and as part of a team. I look forward to applying my experience and soft skills to future web development opportunities.
